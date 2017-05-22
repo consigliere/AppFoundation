@@ -1,0 +1,15 @@
+{
+    "name": "AppFoundation",
+    "alias": "appfoundation",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "App\\Components\\AppFoundation\\Providers\\AppFoundationServiceProvider"
+    ],
+    "aliases":{},
+    "files": [
+        "start.php"
+    ]
+}
