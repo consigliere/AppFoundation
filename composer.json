@@ -1,18 +1,18 @@
 {
-    "name": "consigliere/appfoundation",
-    "description": "",
-    "authors": [
-        {
-            "name": "anonymoussc",
-            "email": "50c5ac69@opayq.com"
-        }
-    ],
-    "autoload": {
-        "psr-4": {
-            "App\\Components\\AppFoundation\\": "src"
-        }
-    },
-    "require"    : {
-        "consigliere/logdb" : "0.1.*"
+  "name"       : "consigliere/appfoundation",
+  "description": "",
+  "authors"    : [
+    {
+      "name" : "anonymoussc",
+      "email": "50c5ac69@opayq.com"
     }
+  ],
+  "autoload"   : {
+    "psr-4": {
+      "App\\Components\\AppFoundation\\": "src"
+    }
+  },
+  "require"    : {
+    "consigliere/logdb": "0.1.*"
+  }
 }
